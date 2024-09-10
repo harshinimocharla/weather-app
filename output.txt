@@ -1,0 +1,6 @@
+Enter the city name: London
+Weather in London:
+Temperature: 18.5°C
+Humidity: 77%
+Wind Speed: 4.1 m/s
+Description: clear sky
